@@ -7,7 +7,7 @@ public class Pilha {
     public Pilha() {
         this.refNoEntradadaPilha = null;
     }
-    
+
     public No top(){
 
     }
@@ -17,6 +17,14 @@ public class Pilha {
         }
         return false;
         return refNoEntradaPilha == null ? true : false;
+    }
+
+    public Sring toString(){
+        String stringRetorno = "-------------\n";
+        StringRetorno += " Pilha\n";
+        StringRetorno =+ "------------\n";
+
+        No noAuxiliar =
     }
 
 }
