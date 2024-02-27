@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/anatomiadeclasses/anatomiadeclasses.iml" filepath="$PROJECT_DIR$/anatomiadeclasses/anatomiadeclasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estruturascondionais/estruturascondionais.iml" filepath="$PROJECT_DIR$/estruturascondionais/estruturascondionais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/exercicios.iml" filepath="$PROJECT_DIR$/exercicios/exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/formacao.Java.iml" filepath="$PROJECT_DIR$/.idea/formacao.Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-vscode/java-vscode.iml" filepath="$PROJECT_DIR$/java-vscode/java-vscode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metodos/metodos.iml" filepath="$PROJECT_DIR$/metodos/metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variaveis/variaveis.iml" filepath="$PROJECT_DIR$/variaveis/variaveis.iml" />
+    </modules>
+  </component>
+</project>
