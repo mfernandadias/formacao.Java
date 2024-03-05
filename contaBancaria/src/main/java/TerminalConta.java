@@ -10,9 +10,10 @@ public class TerminalConta {
         //obter pela scanner os valores digitados no terminal 
         //exibir a mensagem conta criada 
         Scabber sc = new Scanner(System.in);
+	    
         int numero; 
         String agencia; 
-        Strint nomeDoCliente; 
+        String nomeDoCliente; 
         Double saldo; 
 
         System.out.println("Informe os dados solicitados!");
@@ -20,14 +21,14 @@ public class TerminalConta {
         System.out.println("Por favor, digite o númeo da Agência!");
         agencia = sr.next();
 
-        System.out.pritln("Agora digite o número da Conta: (1548)");
-        numero = sr.next();
+        System.out.println("Agora digite o número da Conta: (1548)");
+        numero = sr.nextInt();
 
-        Susyem.out.println("Qual é o seu nome, por favor?")
-        nomeDoCliiente = sr.next();
+        Sysyem.out.println("Qual é o seu nome, por favor?");
+        nomeDoCliente = sr.next();
 
-        System.out.println("Agora me informe seu salco atual: ")
-        saldo = sr.next();
+        System.out.println("Agora me informe seu salco atual: ");
+        saldo = sr.nextDouble();
 
         System.out.println(String.format("Olá %s, obrigado por criar uma conta em nosso banco, sua agência é %s, conta %d e seu saldo %.2f já está disponível para saque.", 
         nomeDOCliente, agencia, numero, saldo));
